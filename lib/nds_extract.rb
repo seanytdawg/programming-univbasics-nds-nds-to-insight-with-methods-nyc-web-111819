@@ -16,7 +16,10 @@ def gross_for_director(director_data)
   gross = 0 
   row_index = 0 
   collumn_index = 0 
-  
-  
-  director_data
+  while row_index = collumn_index
+  do 
+gross += director_data[row_index][collumn_index][:gross]
+row_index += 1 
+collumn_index += 1 
+return gross
 end
